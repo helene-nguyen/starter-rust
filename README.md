@@ -4,6 +4,39 @@
 
 This repository provides a foundational Rust project structure along with examples demonstrating basic Rust usages.
 
+## Prerequisites
+
+Before working with this Rust project, ensure you have the following prerequisites installed and configured:
+
+Rust: The latest stable version of Rust, which includes the compiler (rustc), package manager (cargo), and standard libraries.
+
+Installation:
+
+On Windows, download and run the installer from the official Rust website.
+
+On Linux/macOS, run:
+```sh
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+Verify Installation
+
+```sh
+rustc --version
+cargo --version
+```
+
+## Platform Requirements
+- Operating Systems Supported: Windows, macOS, Linux.
+
+- Minimum Requirements:
+
+    - 64-bit CPU
+
+- At least 2 GB RAM (4 GB recommended)
+
+Once these prerequisites are set up, you can clone this repository and begin exploring the project structure and Rust examples provided.
+
 ## Folder structure
 
 ```sh
